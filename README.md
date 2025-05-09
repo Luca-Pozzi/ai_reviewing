@@ -11,7 +11,7 @@ Leveraging on the power of RAG, the notebook allows the user to query the paper 
 ## How to install
 * Clone the repo with
     ```
-    git clone <link>
+    git clone https://github.com/Luca-Pozzi/ai_reviewing.git
     ```
 * [Optional]. Setup a virtual environment and activate it
     ```
